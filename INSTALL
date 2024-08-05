@@ -17,6 +17,9 @@ So, installation procedures:
 5) Add printer through CUPS' web interface (usually
    http://localhost:631/), click 'Choose file' and select one of provided PPD-files
 
+> [!IMPORTANT]
+> If you're asked for connection type, choose `LPD/LPR Host or Printer`
+
 6) Print!
 
 
